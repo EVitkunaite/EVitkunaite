@@ -8,3 +8,7 @@
 👁‍🗨 Check my latest works:
 
 - [COVID-19 Crisis](https://github.com/EVitkunaite/COVID-19_data_analysis)
+- [Podcasts](https://github.com/EVitkunaite/Podcasts)
+- [Red Wine Quality](https://github.com/EVitkunaite/Red-Wine-Quality)
+
+💬 More to come!
