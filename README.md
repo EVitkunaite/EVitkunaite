@@ -7,3 +7,4 @@
 
 👁‍🗨 Check my latest works:
 
+- [COVID-19 Crisis](https://github.com/EVitkunaite/COVID-19_data_analysis)
